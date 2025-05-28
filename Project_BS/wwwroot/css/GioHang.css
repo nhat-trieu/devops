@@ -1,0 +1,82 @@
+﻿.pSachgh {
+    margin: 0;
+}
+
+#gioHang {
+    height: 90%;
+    width: 100%;
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.anh {
+    float: left;
+    width: 31%;
+    height: 200px;
+    margin: 1%;
+    text-align: center;
+}
+
+.thongtin {
+    float: left;
+    width: 64%;
+    height: 200px;
+    margin: 1%;
+    display: table;
+    text-align: center;
+}
+
+.imgbook {
+    height: 65%;
+    width: 93%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#ingh {
+    float: left;
+    width: 99.5%;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    border: solid #F9E1E0;
+}
+
+.dongia, .soluong, .thanhtien {
+    float: left;
+    width: 30%;
+    margin: 1%;
+    border: solid #F9E1E0;
+    margin-top: 12%;
+}
+
+.tsp {
+    float: left;
+    width: 31%;
+    margin: 1%;
+    text-align: center;
+}
+
+.tinf {
+    float: left;
+    width: 64%;
+    margin: 1%;
+    display: table;
+    text-align: center;
+}
+
+.titleGH {
+    float: left;
+    width: 99.5%;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.pinf {
+    float: left;
+    width: 30%;
+    margin: 0;
+    margin-left: 2%;
+}

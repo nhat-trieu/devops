@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Project_BanSach.Models.Phieunhaphang>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_QuanLy.cshtml";
+}
+
+<h1>PHIẾU NHẬP HÀNG</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NgayNhap)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaNccPnNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayNhap)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaNccPnNavigation.MaNcc)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MaPn">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaPn">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MaPn">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

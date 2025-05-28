@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="dangnhap">
+    <form class="infAcc">
+        <label>Số điện thoại:</label>
+        <br />
+        <input id="sdt" type="text" placeholder="Số điện thoại" />
+        <br />
+        <label>Mật khẩu:</label>
+        <br />
+        <input id="pass" type="password" placeholder="Mật khẩu" />
+        <br />
+        <input id="btDN" type="button" value="Đăng nhập" onclick="DangNhap()" />
+        <input id="btDK" type="button" value="Đăng ký" onclick="DangKy()" />
+    </form>
+</div>
+

@@ -1,0 +1,96 @@
+﻿@model IEnumerable<Project_BanSach.Models.Sach>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_QuanLy.cshtml";
+}
+
+<h1>SÁCH</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TenSach)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HinhAnh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GiaBan)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TrangThai)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MoTa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaCateSachNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaDiscSachNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaLoaiSachSachNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaNccSachNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaNxbSachNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaTgSachNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenSach)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HinhAnh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GiaBan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrangThai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaCateSachNavigation.MaCate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaDiscSachNavigation.MaDisc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaLoaiSachSachNavigation.MaLoaiSach)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaNccSachNavigation.MaNcc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaNxbSachNavigation.MaNxb)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaTgSachNavigation.MaTg)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MaSach">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaSach">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MaSach">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

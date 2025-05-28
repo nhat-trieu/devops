@@ -1,0 +1,25 @@
+﻿@model Project_BanSach.Models.Nxb
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_QuanLy.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Nxb</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TenNxb)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TenNxb)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.MaNxb">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

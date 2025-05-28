@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Project_BanSach.Models.Discount>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_QuanLy.cshtml";
+}
+
+
+<h1>DISCOUNT</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TenDisc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhanTram)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MoTa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StartTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EndTime)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenDisc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhanTram)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndTime)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MaDisc">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaDisc">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MaDisc">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

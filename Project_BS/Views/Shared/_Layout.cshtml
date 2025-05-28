@@ -1,0 +1,77 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF8">
+    <title>Tuong Vi xinkkk</title>
+    <link rel="stylesheet" href="~/css/HomeIndex.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/DangNhapIndex.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/GioHang.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href='https://unpkg.com/css.gg@2.0.0/icons/css/menu.css' rel='stylesheet'>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="~/js/Help.js?v=3"></script>
+    <script src="~/js/HomeIndex.js?v=3"></script>
+    <script src="~/js/DangNhapIndex.js?v=3"></script>
+    <script src="~/js/GioHang.js?v=3"></script>
+    
+</head>
+<body>
+
+    <div class="header">
+        <div class="header_inner">
+            <div class="header_logo">
+                <h4 onclick="trangChu()" style="color:#6237A0;font-size: xx-large;font-weight: bolder; font-family:'Comic Sans MS'">
+                    webSach
+                </h4>
+            </div>
+            <div id="menu" onmouseover="onMenuHoverIn()">
+                <div class="divmenu"></div>
+                <div class="divmenu"></div>
+                <div class="divmenu"></div>
+            </div>
+            <div class="search_parent">
+                <form id="search">
+                    <input id="txtTim" type="text" placeholder="Tìm kiếm" style="width:300px; height:25px; " /> <br />
+                    <input type="button" onclick="timKiem()" value="Tìm" style="background-color: #FED361; width: 60px; " />
+                </form>
+            </div>
+            <div class="header_right">
+                <div id="sdtDN"></div> 
+                <div id="btdx">
+                    <input type="button" style="background-color: #FED361;" value="Đăng xuất" onclick="dangXuat()" />
+                </div>
+                <input id="btdn" class="button_dangnhap" type="button" style="background-color: #FED361;"  value="Đăng nhập" onclick="location.href='https://localhost:7282/DangNhap';" />
+                <div id="gh">
+                    <i id="ghHeader" class="fa fa-shopping-cart" style="color: #FED" onclick="location.href='https://localhost:7282/Giohangs/GioHang';"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="row" onmouseleave="onMenuHoverOut()">
+        <div class="columnLevel0">
+            <ul id="menu_level0"> </ul>
+        </div>
+
+        <div class="columnLevel1">
+            <div id="menuchild"></div>
+        </div>
+    </div>
+    <div id="body">
+        <div id="left" class="bien">
+        </div>
+        <div id="center">
+            @*
+            <div id="listPr">
+            </div>
+            *@
+            @RenderBody()
+        </div>
+       
+        <div id="right" class="bien">
+        </div>
+    </div>
+    
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

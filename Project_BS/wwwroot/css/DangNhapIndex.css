@@ -1,0 +1,22 @@
+﻿#dangnhap {
+    width: 800px;
+}
+
+.infAcc {
+    margin: 200px;
+    font-size: 15pt;
+    width: 70%;
+    text-align: center;
+    border: solid #F2B6E2;
+}
+
+#sdt, #pass {
+    width: 50%;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+#btDN, #btDK {
+    width: 80px;
+    height: 30px;
+}

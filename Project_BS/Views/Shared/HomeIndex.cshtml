@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF8">
+    <title>Tuong Vi xinkkk</title>
+    <link rel="stylesheet" href="~/css/HomeIndex.css" asp-append-version="true" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="~/js/HomeIndex.js">
+    </script>
+</head>
+<body>
+    <div class="header">
+        <div class="header_inner">
+            <div id="menu">
+                <a href="" onmouseover="onMenuHoverIn()">Menu</a>
+            </div>
+        </div>
+    </div>
+    <div id="row" onmouseleave="onMenuHoverOut()">
+        <div class="column">
+            <ul class="menu_item">
+                <li id="cat1" onmouseover="onCatHoverIn('cat1')"><a href=""></a>Loai Sach 1</li>
+                <li id="cat2" onmouseover="onCatHoverIn('cat2')"><a href="">Loai Sach 2</a></li>
+                <li><a href="">Loai Sach 3</a></li>
+                <li><a href="">Loai Sach 4</a></li>
+            </ul>
+        </div>
+
+        <div class="column">
+            <div id="menuchild"> </div>
+        </div>
+    </div>
+</body>
