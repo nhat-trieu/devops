@@ -53,3 +53,16 @@ jobs:
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"nhat-trieu_devops" /o:"nhat-trieu" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
           dotnet build Project_BanSach.sln
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
+
+- name: Build and publish
+  run: dotnet publish Project_BS/Project_BS.csproj -c Release -o ./publish
+
+- name: Zip artifact
+  run: zip -r app.zip ./publish
+
+- name: Upload artifact to GitHub
+  uses: actions/upload-artifact@v4
+  with:
+    name: build-output
+    path: ./app.zip
+
