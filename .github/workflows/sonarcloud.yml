@@ -1,4 +1,4 @@
-name: SonarQube CI/CD (.NET + SonarCloud + Artifact)
+name: SonarQube CI/CD (.NET + SonarCloud + Coverage + Artifact)
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    name: Build, Analyze, Publish Artifact
+    name: Build, Test, Analyze, Publish
     runs-on: ubuntu-latest
 
     steps:
@@ -17,10 +17,10 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup .NET SDK
+      - name: Setup .NET SDK 8
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: '8.0.x'  # ✅ dùng đúng SDK mà project bạn cần
+          dotnet-version: '8.0.x'
 
       - name: Setup JDK (SonarCloud requirement)
         uses: actions/setup-java@v4
@@ -28,21 +28,39 @@ jobs:
           java-version: 17
           distribution: 'zulu'
 
-      - name: Install SonarScanner
-        run: dotnet tool install --global dotnet-sonarscanner
+      - name: Install .NET tools
+        run: |
+          dotnet tool install --global dotnet-sonarscanner
+          dotnet tool install --global dotnet-reportgenerator-globaltool
 
-      - name: Add .NET tools to PATH
+      - name: Add tools to PATH
         run: echo "$HOME/.dotnet/tools" >> $GITHUB_PATH
 
-      - name: SonarScanner Begin
+      - name: Begin SonarCloud analysis
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-        run: dotnet sonarscanner begin /k:"nhat-trieu_devops" /o:"nhat-trieu" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
+        run: |
+          dotnet sonarscanner begin \
+            /k:"nhat-trieu_devops" \
+            /o:"nhat-trieu" \
+            /d:sonar.host.url="https://sonarcloud.io" \
+            /d:sonar.token="${{ secrets.SONAR_TOKEN }}" \
+            /d:sonar.cs.opencover.reportsPaths="coverage/SonarQube.xml"
 
-      - name: Build Solution
-        run: dotnet build Project_BanSach.sln
+      - name: Build project
+        run: dotnet build Project_BanSach.sln --no-incremental
 
-      - name: SonarScanner End
+      - name: Run unit tests with coverage
+        run: dotnet test Project_BanSach.sln --collect:"XPlat Code Coverage"
+
+      - name: Convert coverage to SonarQube format
+        run: |
+          reportgenerator \
+            -reports:**/coverage.cobertura.xml \
+            -targetdir:coverage \
+            -reporttypes:SonarQube
+
+      - name: End SonarCloud analysis
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         run: dotnet sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
