@@ -40,7 +40,13 @@ jobs:
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         run: |
-          dotnet sonarscanner begin "/k:nhat-trieu_devops /o:nhat-trieu /d:sonar.host.url=https://sonarcloud.io /d:sonar.token=${{ secrets.SONAR_TOKEN }} /d:sonar.cs.opencover.reportsPaths=coverage/SonarQube.xml /d:sonar.inclusions=Project_BanSach/Controllers/**/*.cs"
+          dotnet sonarscanner begin \
+            /k:nhat-trieu_devops \
+            /o:nhat-trieu \
+            /d:sonar.host.url=https://sonarcloud.io \
+            /d:sonar.token=${{ secrets.SONAR_TOKEN }} \
+            /d:sonar.cs.opencover.reportsPaths=coverage/SonarQube.xml \
+            /d:sonar.inclusions=Project_BanSach/Controllers/**/*.cs
 
       - name: Build project
         run: dotnet build Project_BanSach.sln --no-incremental
