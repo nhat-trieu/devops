@@ -57,6 +57,30 @@ namespace Project_BanSach.Tests.Controllers
                 Assert.Equal(5, model.MaCate);
             }
         }
+        [Fact]
+public async Task Create_Post_ValidCategory_RedirectsToIndex()
+{
+    var options = GetDbOptions();
+
+    using (var context = new WebBanSachSqlContext(options))
+    {
+        var controller = new CategoriesController(context);
+        var category = new Category
+        {
+            MaCate = 9,
+            TenDanhMuc = "Giáo trình",
+            TrangThai = true,
+            ParentId = null
+        };
+
+        controller.ModelState.Clear(); // để giả định ModelState.IsValid = true
+
+        var result = await controller.Create(category);
+
+        var redirect = Assert.IsType<RedirectToActionResult>(result);
+        Assert.Equal("Index", redirect.ActionName);
+    }
+}
 
         [Fact]
         public async Task Details_WithInvalidId_ReturnsNotFound()
