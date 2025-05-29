@@ -35,5 +35,41 @@ namespace Project_BanSach.Tests.Controllers
                 Assert.Single(model);
             }
         }
+
+        [Fact]
+        public async Task Details_WithValidId_ReturnsCategory()
+        {
+            var options = GetDbOptions();
+
+            using (var context = new WebBanSachSqlContext(options))
+            {
+                context.Categories.Add(new Category { MaCate = 5, TenDanhMuc = "Thể thao" });
+                await context.SaveChangesAsync();
+            }
+
+            using (var context = new WebBanSachSqlContext(options))
+            {
+                var controller = new CategoriesController(context);
+                var result = await controller.Details(5);
+
+                var viewResult = Assert.IsType<ViewResult>(result);
+                var model = Assert.IsAssignableFrom<Category>(viewResult.Model);
+                Assert.Equal(5, model.MaCate);
+            }
+        }
+
+        [Fact]
+        public async Task Details_WithInvalidId_ReturnsNotFound()
+        {
+            var options = GetDbOptions();
+
+            using (var context = new WebBanSachSqlContext(options))
+            {
+                var controller = new CategoriesController(context);
+                var result = await controller.Details(999); // id không tồn tại
+
+                Assert.IsType<NotFoundResult>(result);
+            }
+        }
     }
 }
