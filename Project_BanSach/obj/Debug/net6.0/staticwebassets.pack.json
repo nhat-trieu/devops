@@ -1,275 +1,275 @@
 {
   "Files": [
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Project_BanSach.bundle.scp.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Project_BanSach.bundle.scp.css",
       "PackagePath": "staticwebassets\\Project_BanSach.bundle.scp.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\css\\DangNhapIndex.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\css\\DangNhapIndex.css",
       "PackagePath": "staticwebassets\\css\\DangNhapIndex.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\css\\GioHang.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\css\\GioHang.css",
       "PackagePath": "staticwebassets\\css\\GioHang.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\css\\HomeIndex.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\css\\HomeIndex.css",
       "PackagePath": "staticwebassets\\css\\HomeIndex.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\css\\site.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\favicon.ico",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\js\\DangNhapIndex.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\js\\DangNhapIndex.js",
       "PackagePath": "staticwebassets\\js\\DangNhapIndex.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\js\\GioHang.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\js\\GioHang.js",
       "PackagePath": "staticwebassets\\js\\GioHang.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\js\\Help.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\js\\Help.js",
       "PackagePath": "staticwebassets\\js\\Help.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\js\\HomeIndex.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\js\\HomeIndex.js",
       "PackagePath": "staticwebassets\\js\\HomeIndex.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\js\\site.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "\\\\Mac\\Home\\Desktop\\Project_BanSach\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\BaoCao\\Devops\\Project_BanSach\\Project_BanSach\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

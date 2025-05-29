@@ -9,333 +9,335 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Project_BanSach
 build_property.RootNamespace = Project_BanSach
-build_property.ProjectDir = \\Mac\Home\Desktop\Project_BanSach\Project_BanSach\Project_BanSach\
+build_property.ProjectDir = D:\BaoCao\Devops\Project_BanSach\Project_BanSach\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = \\Mac\Home\Desktop\Project_BanSach\Project_BanSach\Project_BanSach
+build_property.MSBuildProjectDirectory = D:\BaoCao\Devops\Project_BanSach\Project_BanSach
 build_property._RazorSourceGeneratorDebug = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Categories/Create.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Categories/Delete.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Categories/Details.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Categories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Categories/Edit.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Categories/Index.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/ChitietDonhangs/Create.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/ChitietDonhangs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpdGlldERvbmhhbmdzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/ChitietDonhangs/Delete.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/ChitietDonhangs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpdGlldERvbmhhbmdzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/ChitietDonhangs/Details.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/ChitietDonhangs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpdGlldERvbmhhbmdzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/ChitietDonhangs/Edit.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/ChitietDonhangs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpdGlldERvbmhhbmdzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/ChitietDonhangs/Index.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/ChitietDonhangs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpdGlldERvbmhhbmdzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/ChitietGiohangs/Create.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/ChitietGiohangs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpdGlldEdpb2hhbmdzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/ChitietGiohangs/Delete.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/ChitietGiohangs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpdGlldEdpb2hhbmdzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/ChitietGiohangs/Details.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/ChitietGiohangs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpdGlldEdpb2hhbmdzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/ChitietGiohangs/Edit.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/ChitietGiohangs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpdGlldEdpb2hhbmdzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/ChitietGiohangs/Index.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/ChitietGiohangs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpdGlldEdpb2hhbmdzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/ChitietPhieunhaps/Create.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/ChitietPhieunhaps/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpdGlldFBoaWV1bmhhcHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/ChitietPhieunhaps/Delete.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/ChitietPhieunhaps/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpdGlldFBoaWV1bmhhcHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/ChitietPhieunhaps/Details.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/ChitietPhieunhaps/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpdGlldFBoaWV1bmhhcHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/ChitietPhieunhaps/Edit.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/ChitietPhieunhaps/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpdGlldFBoaWV1bmhhcHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/ChitietPhieunhaps/Index.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/ChitietPhieunhaps/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpdGlldFBoaWV1bmhhcHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/DangNhap/Index.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/DangNhap/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuZ05oYXBcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Discounts/Create.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Discounts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Discounts/Delete.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Discounts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Discounts/Details.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Discounts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Discounts/Edit.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Discounts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Discounts/Index.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Discounts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Donhangs/Create.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Donhangs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uaGFuZ3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Donhangs/Delete.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Donhangs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uaGFuZ3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Donhangs/Details.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Donhangs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uaGFuZ3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Donhangs/Edit.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Donhangs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uaGFuZ3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Donhangs/Index.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Donhangs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uaGFuZ3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Giohangs/Create.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Giohangs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lvaGFuZ3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Giohangs/Delete.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Giohangs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lvaGFuZ3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Giohangs/Details.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Giohangs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lvaGFuZ3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Giohangs/Edit.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Giohangs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lvaGFuZ3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Giohangs/GioHang.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Giohangs/GioHang.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lvaGFuZ3NcR2lvSGFuZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Giohangs/Index.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Giohangs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lvaGFuZ3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Home/Index.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Home/Privacy.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Khachhangs/Create.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Khachhangs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hoYW5nc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Khachhangs/Delete.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Khachhangs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hoYW5nc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Khachhangs/Details.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Khachhangs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hoYW5nc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Khachhangs/Edit.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Khachhangs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hoYW5nc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Khachhangs/Index.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Khachhangs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hoYW5nc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Loaisaches/Create.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Loaisaches/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNhY2hlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Loaisaches/Delete.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Loaisaches/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNhY2hlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Loaisaches/Details.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Loaisaches/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNhY2hlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Loaisaches/Edit.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Loaisaches/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNhY2hlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Loaisaches/Index.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Loaisaches/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNhY2hlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Nccs/Create.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Nccs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmNjc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Nccs/Delete.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Nccs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmNjc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Nccs/Details.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Nccs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmNjc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Nccs/Edit.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Nccs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmNjc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Nccs/Index.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Nccs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmNjc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Nxbs/Create.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Nxbs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnhic1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Nxbs/Delete.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Nxbs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnhic1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Nxbs/Details.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Nxbs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnhic1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Nxbs/Edit.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Nxbs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnhic1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Nxbs/Index.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Nxbs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnhic1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Phieunhaphangs/Create.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Phieunhaphangs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVuaGFwaGFuZ3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Phieunhaphangs/Delete.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Phieunhaphangs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVuaGFwaGFuZ3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Phieunhaphangs/Details.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Phieunhaphangs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVuaGFwaGFuZ3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Phieunhaphangs/Edit.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Phieunhaphangs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVuaGFwaGFuZ3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Phieunhaphangs/Index.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Phieunhaphangs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVuaGFwaGFuZ3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Saches/Create.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Saches/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FjaGVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Saches/Delete.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Saches/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FjaGVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Saches/Details.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Saches/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FjaGVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Saches/Edit.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Saches/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FjaGVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Saches/Index.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Saches/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FjaGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Shared/Error.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Shared/HomeIndex.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Shared/HomeIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhvbWVJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Shared/_QuanLy.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Shared/_QuanLy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9RdWFuTHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Tacgias/Create.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Tacgias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFjZ2lhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Tacgias/Delete.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Tacgias/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFjZ2lhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Tacgias/Details.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Tacgias/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFjZ2lhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Tacgias/Edit.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Tacgias/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFjZ2lhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Tacgias/Index.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Tacgias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFjZ2lhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/_ViewImports.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/_ViewStart.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[//Mac/Home/Desktop/Project_BanSach/Project_BanSach/Project_BanSach/Views/Shared/_Layout.cshtml]
+[D:/BaoCao/Devops/Project_BanSach/Project_BanSach/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4poqw8fsj3
