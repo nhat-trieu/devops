@@ -1,117 +1,72 @@
-﻿var listGH = [];
+﻿import { request, giamGiaBan } from './common.js';
 
-
+let listGH = [];
 
 $(document).ready(function () {
-    let sdt = sessionStorage.getItem("sdt");
-    if (sdt != null) {
-        getListGH();
-    }
-})
+    const sdt = sessionStorage.getItem("sdt");
+    if (sdt) getListGH();
+});
 
 function getListGH() {
-    request(
-        "/Giohangs/getGioHang",
-        'GET',
-        {},
-        function (response) {
-            if (response.success) {
-                listGH = JSON.parse(response.data);
-                console.log(listGH);
-                fillGH();
-            } else {
-                alert('Hãy đăng nhập để đi đến giỏ hàng của bạn nhé!');
-            }
-        }
-    )
+    request("/Giohangs/getGioHang", 'GET', {}, (response) => {
+        listGH = JSON.parse(response.data);
+        fillGH();
+    });
 }
 
 function fillGH() {
-    var html = "";
-    listGH.forEach(function (sach) {
-        var giaban = giamGiaBan(sach);
-        console.log(giaban);
-        var tongTien = giaban * sach.SoLuong;
-            html += `
-                    <div class="anh">
-                        <img src=${sach.HinhAnh} class="imgbook"/>
-                        <p class="pSachgh">${sach.TenSach}</p>
-                    </div>
-                    <div class="thongtin">
-                        <div class ="dongia">
-                                <p>${giaban} đ</p>
-                        </div>
-                        <div class ="soluong" style="margin-top: 15%; border: none;">
-                            <input id="sl${sach.MaSach}" type="number" value=${sach.SoLuong} onchange="changeSum(${giaban})"></input>
-                        </div>
-                        <div id="sumSach" class ="thanhtien">
-                            <p>${tongTien} đ</p>
-                        </div>
-                    </div>
-                `
-
-    })
+    let html = "";
+    listGH.forEach(sach => {
+        const giaban = giamGiaBan(sach);
+        const tongTien = giaban * sach.SoLuong;
+        html += `
+            <div class="anh"><img src=${sach.HinhAnh} class="imgbook"/><p class="pSachgh">${sach.TenSach}</p></div>
+            <div class="thongtin">
+                <div class="dongia"><p>${giaban} đ</p></div>
+                <div class="soluong" style="margin-top: 15%; border: none;">
+                    <input id="sl${sach.MaSach}" type="number" value=${sach.SoLuong} onchange="changeSum(${giaban})" />
+                </div>
+                <div id="sumSach" class="thanhtien"><p>${tongTien} đ</p></div>
+            </div>`;
+    });
     $("#ingh").html(html);
     tongTienDH();
-    
 }
-function changeSum(giaban) {
-    var soluong = $("#sl").val();
-    console.log(giaban);
-    console.log(soluong);
-    var tongTien = giaban * soluong;
-    var html = `<p>${tongTien} đ</p>`;
-    $("#sumSach").html(html);
-    
-}
-function tongTienDH() {
-    var tongTien = 0;
-    listGH.forEach(function (sach) {
-        var giaban = giamGiaBan(sach);
-        var soluong = $(`#sl${sach.MaSach}`).val();
-        tongTien += giaban * soluong;
-        console.log(soluong);
 
-    })
-    var html = ` <p>Tổng tiền: ${tongTien}</p>
-                `;
-    $("#sumDH").html(html);
+function changeSum(giaban) {
+    const soluong = $("#sl").val();
+    const tongTien = giaban * soluong;
+    $("#sumSach").html(`<p>${tongTien} đ</p>`);
+}
+
+function tongTienDH() {
+    let tongTien = 0;
+    listGH.forEach(sach => {
+        const giaban = giamGiaBan(sach);
+        const soluong = $(`#sl${sach.MaSach}`).val();
+        tongTien += giaban * soluong;
+    });
+    $("#sumDH").html(`<p>Tổng tiền: ${tongTien}</p>`);
 }
 
 function thanhToan() {
-   
-   
-    var promise = [];
-    listGH.forEach(function (sach) {
-        var soluong = $(`#sl${sach.MaSach}`).val();
-        console.log(soluong);
-        var giaban = giamGiaBan(sach);
-        var tongien = giaban * soluong;
-        console.log(tongien);
+    const promises = listGH.map(sach => {
+        const soluong = $(`#sl${sach.MaSach}`).val();
+        const giaban = giamGiaBan(sach);
+        const tongTien = giaban * soluong;
         const data = {
             maSach: sach.MaSach,
             soLuong: soluong,
-            tongTien: tongien,
+            tongTien: tongTien,
             maGH: sach.MaGH
         };
-        promise.push(new Promise(done => {
-           
-            request(
-                "/Giohangs/thanhToan",
-                'POST',
-                data,
-                function (response) {
+        return new Promise(done => {
+            request("/Giohangs/thanhToan", 'POST', data, () => done());
+        });
+    });
 
-                    done();
-                 
-                }
-            )
-        }))
-        
-     })
-    Promise.all(promise).then(() => {
+    Promise.all(promises).then(() => {
         alert('Thanh toán thành công!');
         location.href = 'https://localhost:7282/Giohangs/GioHang';
-    })
-
+    });
 }
